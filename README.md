@@ -15,4 +15,4 @@ Put your binance API key in the properties file.
 Start the main class, then it'll scan all the pairs and check for those that have an valid entry posotion matching with the algorithm.
 The code automatically fetch the price of BTC pairs, in realtime
 
-If you have any questions, contact valerio[.]kevin83@gmail.com 
+If you have any questions, contact kvalerio[@protonmail.com]
